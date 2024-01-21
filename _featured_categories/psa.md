@@ -3,15 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Example
+title: PSA
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: PSA
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  PSA is an app that simulates an E-commerce with Admins and Users. Although it is not fully completed, it has the necessary features required in every real app such as secure pages, persistance, etc. This app was made for teaching purposes and it is still in progress. The goal of this app is to act as a solid starting point for students that want to learn about web development. 
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
