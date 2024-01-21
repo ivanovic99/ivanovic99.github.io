@@ -2,7 +2,7 @@
 _gh_pages
 _site
 _drafts
-.ruby-version
+# .ruby-version
 
 # Numerous always-ignore extensions
 *.diff
